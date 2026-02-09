@@ -1,0 +1,23 @@
+[33mcommit f53e497211151ad78e7ad1845e8ecd84dfad2f1c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Aimar <aimarsandoval123@gmail.com>
+Date:   Mon Feb 9 09:48:38 2026 +0100
+
+    Controlado la division entre 0
+
+[33mcommit da5fcaf1c0d5ef9692a6c5dc3ae73d2d66db800b[m
+Author: Aimar <aimarsandoval123@gmail.com>
+Date:   Mon Feb 9 09:39:45 2026 +0100
+
+    Proyecto CalculadoraGIT12 y metodos dividir y multiplicar
+
+[33mcommit f063eb91f0205da31f071dd1ac3193fb65f410dd[m
+Author: Aimar <aimarsandoval123@gmail.com>
+Date:   Mon Feb 9 09:27:54 2026 +0100
+
+    Proyecto CalculadoraGIT12 clase Calculadora y metodo restar
+
+[33mcommit 4756704409f48cdfad2a4b129b05c400c7e5d304[m
+Author: Aimar <aimarsandoval123@gmail.com>
+Date:   Mon Feb 9 09:23:06 2026 +0100
+
+    Proyecto CalculadoraGit12 clase calculadora y metodo sumar
