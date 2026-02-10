@@ -1,3 +1,13 @@
+/**
+ * Clase CalculadoraGITXX
+ * 
+ * Esta clase implementa una calculadora básica capaz de realizar
+ * operaciones matemáticas simples como suma, resta, multiplicación y división.
+ * 
+ * Autor: TuNombre
+ * Fecha: 10/02/2026
+ */
+
 package calculadora12;
 
 public class Calculadora12ej {
