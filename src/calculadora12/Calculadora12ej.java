@@ -1,5 +1,5 @@
 /**
- * Clase CalculadoraGITXX
+ * Clase CalculadoraGIT12
  * 
  * Esta clase implementa una calculadora básica capaz de realizar
  * operaciones matemáticas simples como suma, resta, multiplicación y división.
